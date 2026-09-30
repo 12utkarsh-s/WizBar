@@ -2,7 +2,7 @@
 
 A tiny macOS menu bar app for controlling [WiZ](https://www.wizconnected.com/) smart bulbs over your local network — no cloud, no account, no phone.
 
-![alt text](image-1.png)
+![alt text](Menu.png)
 
 Click the 💡 in the menu bar to get a panel with, for each bulb:
 
